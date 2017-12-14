@@ -35,6 +35,9 @@ match(state)
   .otherwise(() => throw Error('Oops'));
 ```
 
+## Build
+```npm run build```
+
 ## License
 
 MIT Licensed.
