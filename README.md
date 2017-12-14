@@ -1,6 +1,9 @@
 # Functional Programming tools
 Some tools to help write more functional code
 
+## Install
+```npm install```
+
 ## Tools
 
 ## Pipe
